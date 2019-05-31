@@ -28,3 +28,7 @@ $ ./run.sh 2
 # 事前条件
 Cのコンパイラを扱えるコマンドが必要です。  
 `gcc`以外はちゃんと動くか確認していません。  
+
+# License
+Copyright (c) 2019 md-chiya  
+This software is released under the MIT License, see [LICENSE](https://github.com/md-chiya/Script-to-compile-and-run-for-C/blob/master/LICENSE).
